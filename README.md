@@ -6,12 +6,12 @@ To develop an end-to-end web application capable of displaying the current job o
 
 TEAM MEMBERS:
 
-Afrah Zainab Khan 
+Team Leader: Afrah Zainab Khan 
 
-Agalya R
+Team Member: Agalya R
 
-Hemavathi R 
+Team Member: Hemavathi R 
 
-Kawsika.S
+Team Member: Jayalakshmi.S
 
-Jayalakshmi.S
+Team Member: Kawsika.S
